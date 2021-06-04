@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-landing-website-material-ui/static/css/main.a0311215.chunk.css",
+    "main.js": "/react-landing-website-material-ui/static/js/main.c68ccf7b.chunk.js",
+    "main.js.map": "/react-landing-website-material-ui/static/js/main.c68ccf7b.chunk.js.map",
+    "runtime-main.js": "/react-landing-website-material-ui/static/js/runtime-main.15328ea1.js",
+    "runtime-main.js.map": "/react-landing-website-material-ui/static/js/runtime-main.15328ea1.js.map",
+    "static/js/2.8bebc64f.chunk.js": "/react-landing-website-material-ui/static/js/2.8bebc64f.chunk.js",
+    "static/js/2.8bebc64f.chunk.js.map": "/react-landing-website-material-ui/static/js/2.8bebc64f.chunk.js.map",
+    "index.html": "/react-landing-website-material-ui/index.html",
+    "precache-manifest.d36814c99e995348b83049cd5967d2aa.js": "/react-landing-website-material-ui/precache-manifest.d36814c99e995348b83049cd5967d2aa.js",
+    "service-worker.js": "/react-landing-website-material-ui/service-worker.js",
+    "static/css/main.a0311215.chunk.css.map": "/react-landing-website-material-ui/static/css/main.a0311215.chunk.css.map",
+    "static/js/2.8bebc64f.chunk.js.LICENSE.txt": "/react-landing-website-material-ui/static/js/2.8bebc64f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15328ea1.js",
+    "static/js/2.8bebc64f.chunk.js",
+    "static/css/main.a0311215.chunk.css",
+    "static/js/main.c68ccf7b.chunk.js"
+  ]
+}
